@@ -6,11 +6,11 @@
   "author": "Cristian Moreno <khriztianmoreno@gmail.com> (http://khriztianmoreno.dev/)",
   "main": "index.js",
   "dependencies": {
-    "@emotion/core": "10.0.27",
+    "@emotion/core": "10.0.28",
     "@emotion/styled": "10.0.27",
     "airtable": "0.8.1",
     "axios": "0.19.2",
-    "babel-plugin-emotion": "10.0.27",
+    "babel-plugin-emotion": "10.0.29",
     "dotenv": "8.2.0",
     "emotion-theming": "10.0.27",
     "gatsby": "2.20.2",
