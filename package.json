@@ -6,9 +6,9 @@
   "author": "Cristian Moreno <khriztianmoreno@gmail.com> (http://khriztianmoreno.dev/)",
   "main": "index.js",
   "dependencies": {
-    "@emotion/core": "10.0.28",
+    "@emotion/core": "10.0.35",
     "@emotion/styled": "10.0.27",
-    "airtable": "0.8.1",
+    "airtable": "0.10.0",
     "axios": "0.20.0",
     "babel-plugin-emotion": "10.0.33",
     "dotenv": "8.2.0",
@@ -30,12 +30,12 @@
     "react-particles-js": "3.3.0"
   },
   "devDependencies": {
-    "eslint": "7.5.0",
+    "eslint": "7.10.0",
     "eslint-config-airbnb": "18.2.0",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-jsx-a11y": "6.3.1",
     "eslint-plugin-react": "7.20.6",
-    "eslint-plugin-react-hooks": "4.0.8",
+    "eslint-plugin-react-hooks": "4.1.2",
     "prettier": "2.0.5"
   },
   "keywords": [
