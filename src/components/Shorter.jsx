@@ -52,9 +52,9 @@ const Shorter = () => {
   const [longUrl, setLongUrl] = useState('');
   const [callback, setCallback] = useState({ url: '', success: false, error: false });
 
-  const submit = (evt) => {
+  const submit = async (evt) => {
     evt.preventDefault();
-    getShortUrl(longUrl, setCallback);
+    await getShortUrl(longUrl, setCallback);
   };
 
   return (
