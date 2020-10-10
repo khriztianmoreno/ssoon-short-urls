@@ -1,7 +1,7 @@
 {
   "name": "airtable-netlify-short-urls",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "URL shortener with an airtable backend",
   "author": "Cristian Moreno <khriztianmoreno@gmail.com> (http://khriztianmoreno.dev/)",
   "main": "index.js",
@@ -49,7 +49,7 @@
     "build": "gatsby build",
     "clean": "rm -rf .cache && rm -rf ./public",
     "develop": "node --max_old_space_size=4096 ./node_modules/.bin/gatsby develop --host 0.0.0.0 --port 8000",
-    "start": "yarn clean && npm run develop",
+    "start": "npm run clean && npm run develop",
     "serve": "gatsby serve"
   },
   "repository": {
