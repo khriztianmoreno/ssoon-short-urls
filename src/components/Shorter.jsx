@@ -27,10 +27,6 @@ const API = process.env.GATSBY_SHORTEN_ENDPOINT;
 const getShortUrl = async (longUrl, setCallback) => {
   const payload = {
     method: 'POST',
-    mode: 'no-cors',
-    headers: {
-      'Access-Control-Allow-Origin': '*',
-    },
     body: JSON.stringify({ url: longUrl }),
   };
 
