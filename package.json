@@ -6,7 +6,7 @@
   "author": "Cristian Moreno <khriztianmoreno@gmail.com> (http://khriztianmoreno.dev/)",
   "main": "index.js",
   "dependencies": {
-    "@emotion/core": "10.0.35",
+    "@emotion/core": "10.1.1",
     "@emotion/styled": "10.0.27",
     "airtable": "0.10.0",
     "axios": "0.21.0",
