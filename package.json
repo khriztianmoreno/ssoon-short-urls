@@ -8,7 +8,7 @@
   "dependencies": {
     "@emotion/core": "10.1.1",
     "@emotion/styled": "10.0.27",
-    "airtable": "0.10.0",
+    "airtable": "0.10.1",
     "axios": "0.21.0",
     "babel-plugin-emotion": "10.0.33",
     "dotenv": "8.2.0",
