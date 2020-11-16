@@ -13,7 +13,7 @@
     "babel-plugin-emotion": "11.0.0",
     "dotenv": "8.2.0",
     "emotion-theming": "11.0.0",
-    "gatsby": "2.26.0",
+    "gatsby": "2.26.1",
     "gatsby-image": "2.5.0",
     "gatsby-plugin-emotion": "4.4.0",
     "gatsby-plugin-manifest": "2.6.0",
