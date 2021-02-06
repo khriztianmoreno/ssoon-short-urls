@@ -7,7 +7,7 @@
   "main": "index.js",
   "dependencies": {
     "@emotion/core": "11.0.0",
-    "@emotion/styled": "11.0.0",
+    "@emotion/styled": "11.1.5",
     "airtable": "0.10.1",
     "axios": "0.21.1",
     "babel-plugin-emotion": "11.0.0",
